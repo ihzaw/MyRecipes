@@ -1,5 +1,6 @@
 # MyRecipes
 My Recipes Repository
+deployment : https://my-recipes8.web.app
 
 ## SETUP
 ### SERVER SETUP - JOVAN
